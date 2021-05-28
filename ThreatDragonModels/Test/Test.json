@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "Test",
+    "owner": "Test",
+    "description": "LMS"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Test",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Test"
+  }
+}
